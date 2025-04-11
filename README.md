@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Swarnendu Das</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+
 # 💫 About Me:
 🔭 I’m currently pursuing MCA<br>🌱 I’m currently learning Web Development<br>👨‍💻 All of my projects are available at https://strypher.netlify.app/<br>💬 Ask me about HTML,CSS,JavaScript<br>📫 How to reach me swarnendu.1122das@gmail.com<br>
 
